@@ -1,0 +1,2 @@
+rootProject.name='RetroFitJson'
+include ':app'
